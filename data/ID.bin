@@ -1,0 +1,150 @@
+
+ID -3
+CASH MONEY
+GET THIS TO COMPLETE THE MISSION
+Speed 0
+Max_Size 1
+
+ID -2
+CREDITS
+GAIN BROUSOUFS HERE
+Speed 0
+Max_Size 1
+
+ID -1
+UPLOAD ZONE
+UPLOAD YOUR PROGRAMS HERE
+Speed 0
+Max_Size 1
+
+ID 0
+WOLF SPIDER
+SPEEDY AND CREEPY LITTLE PROGRAM
+Speed 3
+Max_Size 3
+BYTE
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+
+ID 1
+BLACK WIDOW
+SPEEDIER AND CREEPIER
+Speed 4
+Max_Size 3
+BYTE
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+PARALYZE
+Actiontype 1
+Range 1
+Ammount 3
+Requirement 0
+Cost 0
+DECREASES MOVE RATE OF TARGET BY 3
+
+ID 2
+TARANTULA
+FAST, WITH A VENOMOUS BITE
+Speed 5
+Max_Size 3
+MEGABYTE
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 3 SECTORS FROM TARGET
+PARALYZE
+Actiontype ?
+Range 1
+Ammount 3
+DECREASES MOVE RATE OF TARGET BY 3
+
+ID 3
+HACK
+BASIC ATTACK PROGRAMM
+Speed 4
+Max_Size 4
+SLICE
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+
+ID 4
+HACK 2.0
+IMPROVED HACK
+Speed 3
+Max_Size 4
+SLICE
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+DICE (3)
+Actiontype 0
+Range 2
+Ammount 3
+Requirement 3
+Cost 0
+DELETES 9999 SECTORS FROM TARGET
+
+
+ID 30
+SENTINEL
+CORPORATE DATA DEFENDER
+Speed 3
+Max_Size 3
+CUT
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+RANGED ATTACK
+Actiontype 0
+Range 3
+Ammount 2
+Requirement 0
+Cost 0
+RANGE: 3 DELETES 2 SECTORS FROM TARGET
+
+ID 31
+SENTINEL 2.0
+DESCRIPTION
+Speed 2
+Max_Size 4
+CUT
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+
+ID 33
+GUARD PUP
+A SPEEDY LITTLE CORPORATE CUR
+Speed 3
+Max_Size 2
+BYTE
+Actiontype 0
+Range 1
+Ammount 2
+Requirement 0
+Cost 0
+DELETES 2 SECTORS FROM TARGET
+

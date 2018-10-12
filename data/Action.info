@@ -1,0 +1,4 @@
+#FORMATTING
+#key:"name","description",type,range,ammount,requirement,cost
+#any value might be omitted; defaults are:
+#"NO NAME","NO DESCRIPTION",0,1,2,0,0

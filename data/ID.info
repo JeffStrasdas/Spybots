@@ -1,0 +1,8 @@
+#FORMATTING
+#ID:"name","description",speed,max_size
+#ID:"name","description",speed,max_size;action_key
+#ID:"name","description",speed,max_size;action_key;action_key
+#any value might be omitted; defaults are:
+#"NO NAME","NO DESCRIPTION",1,1
+#minimal possible setup for an object with two actions:
+#0:;;
